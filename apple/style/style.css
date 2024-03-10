@@ -1,0 +1,121 @@
+*{
+    text-align: center;
+    text-decoration: none;
+}
+/* ----------------------------------- */
+header{
+    font-size:x-small;
+    background-color: rgb(152, 144, 144);
+    
+    
+}
+.menu{
+    padding-left: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: white;
+}
+/* --------------------------------------- */
+nav{
+    padding-top: 50px;
+    padding-bottom: 150px;
+}
+.h1{
+    font-size:60px;
+    color: white;   
+}
+.h2{
+    font-size: 30px;
+    color: white;
+}
+.h3{
+    font-size:60px;
+    color: black;
+}
+.h4{
+    font-size: 30px;
+    color: black;
+}
+#h3{
+    font-size:20px;
+    color: rgb(70, 64, 64);
+}
+.blue{
+    color: blue;
+    padding-left:30px;
+    font-size:25px;
+    padding-right:30px;
+}
+/* --------------------------------------- */
+#h4{
+    font-size:60px;
+    color: white;
+}
+#h5{
+    font-size: 30px;
+    color: rgb(233, 25, 25);
+}
+#h6{
+    font-size: 30px;
+    color: white;
+}
+#slider{
+    background-color: black;
+    padding-top: 50px;
+    padding-bottom: 150px;
+}
+/* --------------------------------------- */
+#service{
+    padding-top:500px;
+    padding-bottom: 10px;
+    background-image: url(https://www.apple.com/newsroom/images/2024/01/apple-vision-pro-available-in-the-us-on-february-2/article/Apple-Vision-Pro-availability-hero_big.jpg.large.jpg);
+    background-repeat: no-repeat;
+    background-attachment:local;
+    background-size:contain;
+    background-position: 450px;
+} 
+/* --------------------------------------- */
+#customer{
+    padding-top: 100px;
+    padding-bottom: 150px;
+}
+.s1{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    float: left;
+    width:50%;
+    background-color:black; 
+    border:2px solid rgb(242, 236, 236);
+    padding-right:50px;
+      
+}
+.s2{
+    background-color:white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border:2px solid white;
+    float: left;
+    width:50%;
+    padding-right:50px;
+} 
+footer{
+    padding-top: 200px;
+    padding-bottom: 70px;
+    background-color:rgb(152, 144, 144);
+    
+    
+}
+.foot{
+    padding-left: 100px;
+    padding-right: 100px;
+    font-size:15px;
+    text-align: left;
+    padding-top: 150px;
+}
+.footmenu{
+    text-align: left;
+    padding-left: 200px;
+    padding-right: 1200px;
+    font-size:15px;
+
+}
